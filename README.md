@@ -10,7 +10,7 @@ In this lab, again you will be working on [main.ipynb](your-code/main.ipynb). Re
 
 ## Goals
 
-In this lab, you will examine a data file named `apple_store.csv` downloadable from [this link](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/data-static/data/apple_store.csv). This file contains information of over 7,000 Apple Store apps such as ID, name, size in bytes, price, number of ratings, user rating, prime genre, and so on. You will use Pandas to import the data source and examine the data in order to answer several questions described next.
+In this lab, you will examine a data file named `apple_store.csv` downloadable from [linkthis ](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/data-static/data/apple_store.csv). This file contains information of over 7,000 Apple Store apps such as ID, name, size in bytes, price, number of ratings, user rating, prime genre, and so on. You will use Pandas to import the data source and examine the data in order to answer several questions described next.
 
 ### Challenge Questions
 
